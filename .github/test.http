@@ -1,0 +1,11 @@
+GET http://localhost:8080/user
+
+###
+POST http://localhost:8080/user
+Content-Type: application/json
+
+{
+  "email": ".gmail.com",
+  "dob": 1922,
+  "age": 100
+}
