@@ -10,6 +10,3 @@ public class DHLDelivery implements Delivery{
 
     }
 }
-Footer
-        © 2022 GitHub, Inc.
-        Footer navigation
